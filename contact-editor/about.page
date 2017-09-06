@@ -1,0 +1,12 @@
+---
+title: Contact Editor
+description: Rich text editor in contact form.
+author: Taufik Nurrohman
+type: Markdown
+version: 1.1.0
+dependency: {"extension":["rich-text-editor"],"plugin":["contact"]}
+...
+
+This plugin will add a simple rich text editor in the contact form.
+
+<!-- block:donate -->

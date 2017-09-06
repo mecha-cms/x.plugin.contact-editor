@@ -1,0 +1,21 @@
+.form-contact .rich-text-editor {
+  border-width:0;
+  background:#eef;
+}
+.form-contact .rich-text-editor-view {padding:.25em .5em}
+.form-contact .rich-text-editor-tool {
+  border-top:1px dashed #fff;
+  visibility:visible;
+  opacity:1;
+}
+.form-contact .rich-text-editor-tool a {
+  background:none;
+  color:#00a;
+}
+.form-contact .rich-text-editor-tool a:focus,
+.form-contact .rich-text-editor-tool a:hover {
+  background:none;
+  color:#a00;
+}
+.form-contact .rich-text-editor-d {margin-bottom:1px}
+.form-contact .rich-text-editor-d input {color:#00a}
